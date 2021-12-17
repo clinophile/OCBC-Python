@@ -72,16 +72,16 @@ print(age, Age, aGe, AGE, a_g_e, _age, age_, _AGE_)
 a = 4
 b = 3
 
-print(a + b)
-print(a - b)
-print(a * b)
-print(a / b)
-print(a // b)
-print(a % b)
-print(a ** b)
+print('a + b =', a + b)
+print('a - b =', a - b)
+print('a * b =', a * b)
+print('a / b =', a / b)
+print('integer division: a // b =', a // b) #integer divison
+print('modulo: a % b =', a % b)
+print('pangkat: a ** b =', a ** b)
 # The result of standard division (/) is always a float, even if the dividend is evenly divisible by the divisor:
 
-10 / 5
+print(10 / 5)
 
 
 
