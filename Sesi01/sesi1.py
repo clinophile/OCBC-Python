@@ -115,6 +115,8 @@ print(s + t)
 
 print(s + t + u)
 
+print(f'umur : {a}, {b}')
+
 
 print('Hacktiv8 ' + 'Inalum')
 
@@ -171,7 +173,8 @@ print(a[-6])
 
 a = ['foo', 'bar', 'baz', 'qux', 'quux', 'corge']
 
-a[2:5]
+print (a[2:5])
+# ['baz', 'qux', 'quux']
 
 # The concatenation (+) and replication (*) operators:
 
@@ -221,7 +224,7 @@ print(t[-1])
 
 (s1, s2, s3, s4) = ('foo', 'bar', 'baz', 'qux')
 
-s1
+print(s1)
 
 MLB_team = {
     'Colorado': 'Rockies',
