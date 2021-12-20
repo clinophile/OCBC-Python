@@ -1,4 +1,3 @@
-from os import system
 from packages import KC_module as kc
 from packages import fahrenheit_module as fahren
 

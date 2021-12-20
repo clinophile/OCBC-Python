@@ -1,5 +1,5 @@
 from packages import KC_module as kc
-'''Module ini berisi 1 function yang digunakan untuk convert suhu ke fahrenheit atau dari fahrenheit.'''
+'''Module ini berisi 2 function yang digunakan untuk convert suhu ke fahrenheit atau dari fahrenheit.'''
 
 '''function toFahrenheit() digunakan untuk mengubah suhu Kelvin dan Celcius ke Fahrenheit.
 Terdapat 2 parameter, yaitu kelvin dan celcius :
