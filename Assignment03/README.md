@@ -1,3 +1,3 @@
-open with http://h8ocbc-deployment-014.herokuapp.com
+url heroku : http://h8ocbc-deployment-014.herokuapp.com
 
-for test swagger http://h8ocbc-deployment-014.herokuapp.com/api/ui
+test swagger : http://h8ocbc-deployment-014.herokuapp.com/api/ui
